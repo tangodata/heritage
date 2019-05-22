@@ -1,0 +1,128 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,100italic,300italic,400italic,700italic);
+ /*************************
+*******about / info******
+**************************/
+#schedule {
+  padding: 180px 0 100px 0;
+  background: #fff;
+
+}
+#schedule a {
+  color: #444037 !important;
+	text-decoration: none;
+}
+#schedule a:hover,
+#schedule a:focus {
+  text-decoration: none;
+  color: #2c8cb3 !important;
+}
+
+#schedule .btn.btn-primary {
+	background: #7f375e !important;
+	border-color: #7f375e !important;
+	color:#fff !important;
+}
+#milonga {
+  padding: 180px 0 100px 0;
+  background: #1a1a1a;
+}
+#milonga p {
+  color:#ada19f;}
+
+#milonga h2 {
+  color: #45aed6;
+  font-size: 35px;
+  line-height: 1;
+}
+#milonga h2 span {
+  color: #fff; font-weight:400; letter-spacing:0.1em;
+}
+
+#milongath {
+  color: #fff;
+  padding: 180px 0 100px 0;
+  background: #fff;
+}
+#milongath .column-title {
+  font-weight: 600;
+  font-family: 'Roboto', sans-serif;
+  color: #272727;
+  line-height:1.7em;
+}
+ /*************************
+*******shop******
+**************************/
+#shop{
+  padding: 0px 0 100px 0;
+  background: #fff;
+}
+#shop p {
+  font-size:16px; color:#807673;
+  line-height:1.7em;
+  padding-bottom:10px;
+}
+
+/*************************
+*******Slider******
+**************************/
+#main-slider img {
+  width: 100%
+}
+#main-slider 
+.carousel-indicators li {
+  background-color:#ae4471;
+  border: 1px solid #ae4471;
+}
+#main-slider 
+.carousel-indicators li.active {
+  background-color:#fff;
+  border: 1px solid #fff;
+}
+.borderless th,
+.borderless td {
+  border:none!important;
+}
+table a {
+  color: #444037 !important;
+	text-decoration: underline;
+}
+table a:hover,
+table a:focus {
+  text-decoration: none;
+  color: #2c8cb3 !important;
+}
+tr td {vertical-align:text-top;
+padding-bottom: 50px;}
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+#schedule  h2 {
+  font-size: 24px;
+  padding-bottom:15px;
+}
+#milonga h2 {
+  font-size: 24px;
+  padding-bottom:15px;
+}
+}
+/* xs */
+@media (max-width: 767px) {
+#schedule h2 {
+  font-size: 20px;
+  padding-bottom:10px;
+}
+#milonga  h2 {
+  font-size: 20px;
+  padding-bottom:10px;
+}
+}
+/* XS Portrait */
+@media (max-width: 479px) {
+#schedule h2 {
+  font-size: 20px;
+  padding-bottom:10px;
+}
+#milonga  h2 {
+  font-size: 20px;
+  padding-bottom:10px;
+}
+}

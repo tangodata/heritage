@@ -1,0 +1,581 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i');
+/*************************
+*******Slider******
+**************************/
+#main-slider img {
+	width: 100%
+}
+#main-slider 
+.carousel-caption {
+	background: none repeat scroll 0 0 #000000;
+	bottom: 10%;
+	float: left;
+	left: 0;
+	opacity: 0.8;
+	padding:10px 60px 35px;
+	right: inherit;
+	color: #fff;
+	text-align: left;
+}
+#main-slider 
+.carousel-caption h2 {
+	font-size: 25px;
+	font-weight:normal !important;
+	color: #b3a5a1;
+}
+#main-slider 
+.carousel-caption h4 {
+	font-size: 20px;
+	color: #b3a5a1;
+	font-weight:normal !important;
+}
+#main-slider 
+.carousel-caption a {
+	font-size: 18px;
+	color: #E3C31F;
+}
+#main-slider 
+.carousel-caption a:hover {
+	color: #806d12;
+}
+#main-slider 
+.carousel-caption a:hover i {
+	margin-left: 35px
+}
+#main-slider 
+.carousel-caption a i {
+	margin-left: 15px;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+#main-slider 
+.carousel-indicators li {
+	background-color:#ae4471;
+	border: 1px solid #ae4471;
+}
+#main-slider 
+.carousel-indicators li.active {
+	background-color:#fff;
+	border: 1px solid #fff;
+}
+/*************************
+*******inicio******
+**************************/
+#cta {
+	padding: 50px 0;
+	background-color: #000;
+}
+#cta p {
+	text-align:center;
+	color:#867d7b;}
+
+#cta .btn {
+	margin-top: 40px;
+}
+
+/*************************
+*******Countdown******
+**************************/
+#explore {
+	background-position: center bottom;
+	background-size: contain;
+	background-repeat:no-repeat;
+	position: relative;
+	overflow: hidden;
+	padding: 30px 0 50px;
+}
+
+#cta h2 {
+	font-size: 30px;
+	font-weight:400;
+	text-transform: uppercase;
+	text-align: center;
+	padding-bottom:15px;
+	color:#869735;
+}
+#countdown {
+	display: block;
+	overflow: hidden;
+	text-align: center;
+	padding: 0
+}
+#countdown li {
+	list-style: none;
+	display:inline-block;
+	margin-right: 40px;
+	text-align: center;
+	position: relative;
+}
+#countdown li:last-child {
+	margin-right: 0
+}
+#countdown li span {
+	display: block;
+	font-size: 35px;
+	font-weight: 700;
+	color:#eee;
+	height: 82px;
+	line-height: 79px;
+	width: 75px;
+	border-radius: 10px;
+	border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+#countdown li .days {
+	background-color: #45aed6;
+	border-top: 1px solid #58b8dd;
+	border-left: 1px solid #58b8dd;
+}
+#countdown li .hours {
+	background-color: #E0AF03; 
+	border-top: 1px solid #f2d470;
+	border-left: 1px solid #f2d470;
+}
+#countdown li .minutes {
+	background-color: #869735;
+	border-top: 1px solid #9cac50;
+	border-left: 1px solid #9cac50;
+}
+#countdown li .seconds {
+	background-color: #6d4863;
+	border-top: 1px solid #7f6177;
+	border-left: 1px solid #7f6177;
+}
+#countdown li:before {
+	background-color: #FFFFFF;
+	content: "";
+	height: 11px;
+	left: 0;
+	position: absolute;
+	top: 36px;
+	width: 1px;
+}
+#countdown li:after {
+	background-color: #FFFFFF;
+	content: "";
+	height: 11px;
+	right:0;
+	position: absolute;
+	top: 36px;
+	width: 1px;
+}
+
+/***********************
+********* News ******
+************************/
+#news {
+	padding: 100px 0;
+	background: #49043d url(../../2018/img/retro-intro.png) repeat;
+	color: #000;
+}
+#news h1,
+#news h2 {
+	color: #fff;
+}
+#news p {
+	color:#cbbeba;}
+#news th, 
+#news td {
+	border-color: #49043d!important;
+	background:rgba(73, 4, 4, 0.3);
+	line-height: 1.6em!important;
+	color:#cbbeba;
+	font-size: 14px;
+}
+#news .entry-date {
+	font-size: 12px;
+	display: block;
+	margin-bottom: 5px;
+	color: #45aed6;
+}
+#news .entry-title {
+	margin-top: 0;
+	font-size: 14px;
+	line-height: 1.5em;
+	margin-bottom: 15px;
+}
+#news .entry-title a {
+	color: #cbbeba;
+	-webkit-transition: color 400ms, background-color 400ms;
+	-moz-transition: color 400ms, background-color 400ms;
+	-o-transition: color 400ms, background-color 400ms;
+	transition: color 400ms, background-color 400ms;
+}
+#news .entry-title a:hover {
+	text-decoration: none;
+	color: #fff;
+}
+#pageplugin {
+	margin-bottom: 20px;
+}
+.fb_iframe_widget,
+.fb_iframe_widget span,
+.fb_iframe_widget iframe[style]{
+	width: 100% !important;
+}
+
+/*************************
+*******Program******
+**************************/
+#program {
+	padding: 180px 0 100px 0;
+	background: #fff url(../../2018/img/retro-intro.png) repeat;
+}
+#program h4 {
+	font-size:18px; color:#869735;
+	padding-bottom:20px; padding-top:10px;
+	line-height:1.7em;
+}
+#program td {
+	font-size: 14px;
+	color: #514F45;
+}
+#program td a {
+	color: #514F45;
+	text-decoration: none;
+}
+#program td a:hover {
+	text-decoration:underline;
+}
+.program-menu {
+	width:100%;
+	height:auto;
+	padding:15px;
+}
+.program-menu img {
+	display:block;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+#art2 {
+  background: #000;
+  background-size: cover;
+  color: #fff ;
+  padding: 100px 0;
+}
+#art2 p {
+  color:#cbbeba;}
+#art2 .btn {
+  margin-top: 10px;
+}
+#art2 h2 {
+	font-family: "Segoe UI", "Hiragino Kaku Gothic ProN", "Meiryo UI", "Hiragino Kaku Gothic Pro", sans-serif;
+  color: #fff;
+  font-size: 35px;
+  line-height: 1.3;
+}
+#art2 h2 span {
+  color: #45aed6;
+}
+#art2 h3 {
+  color:#cbbeba;
+ font-weight: bold;
+ font-size: 18px;}
+#art .btn {
+  margin-top: 10px;
+}
+ /*************************
+*******Maestros******
+**************************/
+
+#artists{
+	padding: 180px 0 100px 0;
+	background: #333333 url(../../2017/images/pht_artists/bg.jpg) no-repeat 0 0;
+	background-size: cover;
+}
+.team-info h3 {
+	font-size: 18px;
+}
+.artist-member {
+	margin-bottom:30px;
+	padding: 13px;
+	background: #eeeeee;
+	border: 2px solid #eeeeee;
+	transition: border-color 400ms;
+	-webkit-transition: border-color 400ms;
+}
+.artist-member .team-img {
+	margin: -15px -15px 0 -15px;
+}
+.artist-member .team-info {
+	padding-bottom: 10px;
+	border-bottom: 1px solid #dbdbdb;
+	margin-bottom: 10px;
+}
+#artists .artist-member:hover {
+	border-color: #53012e;
+}
+.artist-member:hover .social-icons > li > a {
+	background: #53012e;
+}
+ /*************************
+*******Musician******
+**************************/
+#mus {
+  padding: 180px 0 100px 0;
+  background: #333333 url(../../2017/images/pht_bg/band.jpg) no-repeat 0 0;
+  background-size: cover;
+}
+ /*************************
+*******DJs******
+**************************/
+#dj {
+  padding: 180px 0 100px 0;
+  background: #333333 url(../../2017/images/pht_bg/dj.jpg) no-repeat 0 0;
+  background-size: cover;
+}
+
+/***********************
+********* Access ******
+************************/
+#access {
+	padding: 180px 0 100px 0;
+	background: #49043d url(../../2018/img/retro-intro.png) repeat;
+	color: #000;
+}
+#access h1,
+#access h2 {
+	color: #fff;
+}
+#access p {
+	color:#cbbeba;}
+
+#access a {
+	color: #45aed6;
+	-webkit-transition: color 400ms, background-color 400ms;
+	-moz-transition: color 400ms, background-color 400ms;
+	-o-transition: color 400ms, background-color 400ms;
+	transition: color 400ms, background-color 400ms;
+}
+#access a:hover {
+	text-decoration: none;
+	color: #065573;
+}
+#access .btn.btn-primary {
+	background-color: transparent !important;
+	border-color: #fff !important;
+	border-radius: 0.8em;
+	color:#fff !important;
+}
+#access .btn.btn-primary:hover,
+#access .btn.btn-primary:focus {
+	background: #7f375e !important;
+	border-color: #7f375e !important;
+	color:#b3a5a1 !important;
+}
+#map{
+	width: 100%;
+		height: 500px;
+}
+/*************************
+*******Exhibi******
+**************************/
+#art2 {
+	background: #000;
+	background-size: cover;
+	color: #fff ;
+	padding: 100px 0;
+}
+#art2 p {
+	color:#cbbeba;}
+#art2 .btn {
+	margin-top: 10px;
+}
+#art2 h2 {
+	font-family: "Segoe UI", "Hiragino Kaku Gothic ProN", "Meiryo UI", "Hiragino Kaku Gothic Pro", sans-serif;
+	color: #fff;
+	font-size: 35px;
+	line-height: 1.3;
+}
+#art2 h2 span {
+	color: #45aed6;
+}
+#art2 h3 {
+	color:#cbbeba;
+ font-weight: bold;
+ font-size: 18px;}
+
+/***********************
+********* partner ******
+************************/
+#partner {
+	padding:50px 0;
+	background: url(../../2017/images/pht_bg/partner.jpg) 50% 50% no-repeat;
+	background-size: cover;
+}
+#partner h2 {
+	color: #fff;
+	font-size: 35px;
+	line-height: 1;
+}
+#partner h2 span {
+	color: #45aed6;
+}
+#partner img {
+	display:block;
+	margin:auto;
+	vertical-align: middle;}
+
+/***********************
+********* fes ******
+************************/
+#asia {
+	padding:50px 0;
+	background: #000;
+}
+#asia h2 {
+	color: #fff;
+	font-size: 35px;
+	line-height: 1;
+}
+#asia h2 span {
+	color: #45aed6;
+}
+#asia img {
+	display:block;
+	margin:auto;
+	vertical-align: middle;}
+#lean_overlay {
+		position: fixed;
+		z-index:100;
+		top: 0px;
+		left: 0px;
+		height:100%;
+		width:100%;
+		background: #000;
+		display: none;
+}
+ 
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+	#main-slider .carousel-caption {
+		bottom: 5%;
+		padding: 10px;
+		line-height: 0;
+	}
+
+	#main-slider .carousel-caption h2 {
+		font-size: 22px;
+		margin-top: 3px;
+	}
+
+	#main-slider .carousel-caption h4 {
+		font-size: 18px;
+	}
+
+	#main-slider .carousel-caption a {
+		font-size: 14px;
+		color: #E3C31F;
+	}
+}
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+#main-slider .carousel-caption {
+		bottom: 5%;
+		padding: 10px;
+		line-height: 0;
+	}
+#main-slider .carousel-caption h2 {
+		font-size: 18px;
+		margin-top: 3px;
+	}
+#main-slider .carousel-caption h4 {
+		font-size: 16px;
+	}
+#main-slider .carousel-caption a {
+		font-size: 14px;
+		color: #E3C31F;
+	}
+#map{
+	width: 100%;
+		height: 400px;
+}
+#cta h2 {
+	font-size: 24px;
+	padding-bottom:15px;
+}
+#partner h2 {
+	font-size: 24px;
+	padding-bottom:15px;
+}
+}
+/* xs */
+@media (max-width: 767px) {
+/*************************
+*******Countdown******
+**************************/
+#countdown li {
+	margin-right: 30px;
+}
+#countdown li span {
+	font-size: 20px;
+	font-weight: 400;
+	height: 57px;
+	line-height: 55px;
+	width: 52px;
+}
+#countdown li:before {
+	top: 50px;
+}
+#countdown li:after {
+	top: 50px;
+}
+#map{
+	width: 100%;
+		height: 300px;
+}
+#cta h2 {
+	font-size: 20px;
+	padding-bottom:10px;
+}
+#workshop h2 {
+	font-size: 20px;
+	padding-bottom:10px;
+}
+#partner h2 {
+	font-size: 20px;
+	padding-bottom:10px;
+}
+}
+/* XS Portrait */
+@media (max-width: 479px) {
+/*************************
+*******Countdown******
+**************************/
+#countdown li {
+	margin-right: 30px;
+}
+#countdown li span {
+	font-size: 20px;
+	font-weight: 400;
+	height: 57px;
+	line-height: 55px;
+	width: 52px;
+}
+#countdown li:before {
+	top: 50px;
+}
+#countdown li:after {
+	top: 50px;
+}
+#map{
+	width: 100%;
+		height: 300px;
+}
+#cta h2 {
+	font-size: 20px;
+	padding-bottom:10px;
+}
+#workshop h2 {
+	font-size: 20px;
+	padding-bottom:10px;
+}
+#partner h2 {
+	font-size: 20px;
+	padding-bottom:10px;
+}
+}

@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i');
+ /*************************
+*******about / info******
+**************************/
+#about {
+	padding: 180px 0 100px 0;
+	background: #fff url("../../2018/img/retro-intro.png") repeat;
+}
+#about a {
+  font-size: 14px !important;
+  color: #45aed6 !important;
+}
+#about a:hover,
+#about a:focus {
+  text-decoration: none;
+  color: #c1bab8 !important;
+}
+
+#about .media.service-box:first-child {
+  margin-top: 80px;
+}
+.media.service-box {
+  margin: 25px 0;
+}
+.media.service-box .pull-left {
+  margin-right: 20px;
+}
+.media.service-box .pull-left > i {
+  font-size: 24px;
+  height: 64px;
+  line-height: 64px;
+  text-align: center;
+  width: 64px;
+  border-radius: 100%;
+  color: #45aed6;
+  box-shadow: inset 0 0 0 1px #d7d7d7;
+  -webkit-box-shadow: inset 0 0 0 1px #d7d7d7;
+  transition: background-color 400ms, background-color 400ms;
+  position: relative;
+}
+.media.service-box .pull-left > i:after {
+  content: "";
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 50%;
+  margin-top: -10px;
+  right: -10px;
+  border: 4px solid #fff;
+  border-radius: 20px;
+  background: #45aed6;
+}
+.media.service-box:hover .pull-left > i {
+  background-image: -moz-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
+  background-image: -webkit-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
+  background-image: -ms-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
+  color: #fff;
+  box-shadow: inset 0 0 0 5px rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: inset 0 0 0 5px rgba(255, 255, 255, 0.8);
+}
+
+#concept {
+  background: #1a1a1a url(../../2017/images/pht_bg/concept.jpg) no-repeat 50% 50%;
+  background-size: cover;
+  color: #fff;
+  padding: 180px 0 100px 0;
+}
+#concept p {
+  color:#b1a8a6;}
+#concept h2 {
+  color: #fff;
+  font-size: 35px;
+  line-height: 1;
+}
+#concept h2 span {
+  color: #45aed6;
+}
+
+#details {
+  padding: 180px 0 100px 0;
+	background: #fff url("../../2018/img/retro-intro.png") repeat;
+}
+#details p {
+  font-size:16px; color:#807673;
+  line-height:1.7em;
+  padding-bottom:10px;
+}
+#sakura {
+  padding: 180px 0 100px 0;
+  background: #1a1a1a url(../../2017/images/pht_bg/sakura.jpg) no-repeat 50% 50%;
+  background-size: cover;
+  color: #fff;
+}
+#sakura  h2 {
+  color: #fff;
+  font-size: 35px;
+  line-height: 1;
+}
+#sakura h2 span {
+  color: #45aed6;
+}
+#sakura p {
+  color:#b1a8a6;}
+
+#media {
+  padding: 180px 0 100px 0;
+	background: #1a1a1a;
+}
+#media a{
+  color:#b1a8a6;
+}
+#media a:hover{
+  color:#6d4863;
+}
+#media h2 {
+  color: #fff;
+  font-size: 35px;
+  line-height: 1;
+}
+#media h2 span {
+  color: #45aed6;
+}
+#tiempo {
+  color: #fff;
+  padding: 180px 0 100px 0;
+	background: #fff url("../../2018/img/retro-intro.png") repeat;
+}
+#tiempo .column-title {
+  font-weight: 600;
+  font-family: 'Roboto', sans-serif;
+  color: #272727;
+  line-height:1.7em;
+}
+
+.social-icons > li > a {
+  background: #53012e;
+}
+.social-icons {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.social-icons > li {
+  display: inline-block;
+}
+.social-icons > li > a {
+  display: block;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  text-align: center;
+  color: #fff;
+  background: #2e2e2e;
+  border-radius: 3px;
+}
+.social-icons > li > a:hover {
+  background: #53012e;
+}
+#sancho {
+  padding: 180px 0 100px 0;
+  background: #1a1a1a;
+}
+#sancho p {
+  color:#e7dfde;}
+
+#sancho h2 {
+  color: #45aed6;
+  font-size: 35px;
+  line-height: 1;
+}
+#sancho h2 span {
+  color: #fff; font-weight:400; letter-spacing:0.1em;
+}
+
+/*************************
+*******Slider******
+**************************/
+#main-slider img {
+  width: 100%
+}
+#main-slider 
+.carousel-indicators li {
+  background-color:#ae4471;
+  border: 1px solid #ae4471;
+}
+#main-slider 
+.carousel-indicators li.active {
+  background-color:#fff;
+  border: 1px solid #fff;
+}
+
+table a {
+  color: #4f4948 !important;
+}
+table a:hover,
+table a:focus {
+  text-decoration: none;
+  color: #2c8cb3 !important;
+}
+
+tr td {vertical-align:text-top;
+padding-bottom:50px;}
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+#concept h2 {
+  font-size: 24px;
+  padding-bottom:15px;
+}
+#sakura  h2 {
+  font-size: 24px;
+  padding-bottom:15px;
+}
+#media h2 {
+  font-size: 24px;
+  padding-bottom:15px;
+}
+#sancho h2 {
+  font-size: 24px;
+  padding-bottom:15px;
+}
+}
+/* xs */
+@media (max-width: 767px) {
+#concept h2 {
+  font-size: 20px;
+  padding-bottom:10px;
+}
+#sakura  h2 {
+  font-size: 20px;
+  padding-bottom:10px;
+}
+#media h2 {
+  font-size: 20px;
+  padding-bottom:10px;
+}
+#sancho h2 {
+  font-size: 20px;
+  padding-bottom:10px;
+}
+}
+/* XS Portrait */
+@media (max-width: 479px) {
+#concept h2 {
+  font-size: 20px;
+  padding-bottom:10px;
+}
+#sakura  h2 {
+  font-size: 20px;
+  padding-bottom:10px;
+}
+#media h2 {
+  font-size: 20px;
+  padding-bottom:10px;
+}
+#sancho h2 {
+  font-size: 20px;
+  padding-bottom:10px;
+}
+}

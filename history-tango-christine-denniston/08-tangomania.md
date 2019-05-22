@@ -1,0 +1,24 @@
+Couple Dance Begins in Europe
+by Christine Denniston
+
+Tango was the first couple dance ever seen in Europe that involved improvisation. Before the arrival of Tango, couple dance was sequence based, with every couple on the floor dancing the same steps at the same time. (The only notable exception to this was the Boston, a rhythmically difficult form of Waltz fashionable in London in 1911, although it was never widely danced. Some Ballroom dancers today dance a very simplified version of the Boston.)
+
+It was the arrival and popularity of Tango that really defines the beginning of couple dance as we understand it.
+
+The earliest evidence of Tango being danced in Europe comes from the first decade of the Twentieth Century. It probably came into France first through the port of Marseille, where Argentine sailors would dance with the local girls, and Tango was the couple dance they prefered. There is evidence of a couple dancing Tango on stage in Monmartre in Paris by 1909. But it was in 1912 that the Tango took Paris by storm.
+
+By this time Argentina was the seventh richest country in the world, with an average per capita income four times that of Spain or Italy. While the poor stayed poor, the rich got very rich indeed, and it became the fashion for families to send their young sons to Europe, either to go to university, or simply to do the Grand Tour and finish off their education.
+
+Young men of good families have a tendency to spend time in places they are not supposed to visit, and with girls that their mothers would rather they did not marry, and as a consequence several of these young men were quite good Tango dancers, even though Tango was still completely unacceptable in polite society in Buenos Aires. But when these young men began to dance in Paris the upper classes were entranced, and Tango became a massive craze.
+
+1913 was the Year of the Tango all over the world. Tango was the couple dance everyone wanted to learn. In this year the Tango Teas began at the Waldorf Hotel in London, picking up the fashion of _Tes Dansants_ from Paris, and a grand Tango ball held in the Selfridges department store was declared the event of the season. All of Europe was dancing the Tango. There were many disapproving voices, but the mania had bitten. Fashions in clothing, already changing away from the restrictions of the Victorian corset and hooped skirts, changed more quickly under the influence of the Tango. It is said that women in Paris abandoned the corset in order to dance it. The feathers in women's hats moved from horizontal, sweeping across in front of the face, to vertical, going up from the forehead, letting a couple dance without the feather getting in the Tango partner's way. Tulip skirts, which opened at the front, made dancing easier. Women were sold not just Tango shoes, but Tango stockings, Tango hats, Tango dresses, and anything else that manufacturers could think of. And the colour of Tango was orange.
+
+In 1913 and 1914 a variety of books were published in Europe claiming to teach Tango, four of them in London. It seems to me that one of these, [Secrets of the Tango,](http://www.totaltango.com/acatalog/tango_secrets_1914_39.html "How Tango was danced at the height of Tangomania") has a ring of truth about it. It was published in 1914, under the name of an English author, but the steps in it are credited to a young Argentine living in London. His parents thought that he was studying Engineering. In fact he was appearing on the stage of the Queen's Theatre in Shaftesbury Avenue dancing the Tango.
+
+It is quite clear that the young Argentine, referred to only by his stage name, Juan Barrasa, feels that the other books published in London were written by people trying to jump on the Tango bandwagon, and lack any real Tango content.
+
+It is my guess that the steps he presents give us one of our only indications of how Tango was being danced in Buenos Aires before the First World War. Certainly they seem to fit naturally and beautifully with Tango recordings from that period. There are also movements reminiscent of the ocho cortado, a step popular in the 1950s, and fashionable again in the Tango renaissance. It is sometimes described as a decadent form of the forwards ocho, but is clearly a variant of a very early kind of step.
+
+The popularity of Tango in Europe, and especially in Paris, made it an interesting couple dance to the upper classes in Buenos Aires, and the Tango was re-imported for their benefit. I have seen a book published in Buenos Aires around the time of the First World War (the publishing date was not given on the copy I saw) which says in its introduction that this is to teach people the elegant Tango as it is danced in Paris, which is nothing like the tasteless, squalid little dance done by the lower classes in the outskirts of Buenos Aires!
+
+[The Birth of Tango Lyrics](http://www.history-of-tango.com/tango-lyrics.html "The Birth of Tango Lyrics ")

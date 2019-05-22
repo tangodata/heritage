@@ -1,0 +1,91 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,100italic,300italic,400italic,700italic);
+/*************************
+*******Workshop******
+**************************/
+#workshop {
+  background: #242a33 url("../../2017/images/pht_bg/workshop.jpg") no-repeat 50% 50%;
+  background-size: cover;
+  color: #fff;
+  padding: 180px 0 100px 0;
+}
+#workshop .btn {
+  margin-top: 10px;
+}
+#workshop h2 {
+  color: #fff;
+  font-size: 35px;
+  line-height: 1;
+}
+#workshop h2 span {
+  color: #45aed6;
+}
+#workshop p {
+  color:#cbbeba;}
+#shedule {
+  padding: 180px 0 100px 0;
+  background: #fff;
+}
+#shedule ul li {
+	padding-bottom: 8px;
+	color:#4f4948 !important;
+}
+#theme {
+  padding: 180px 0 100px 0;
+	background: #fff url("../../2018/img/retro-intro.png") repeat;
+}
+#price {
+  padding: 180px 0 100px 0;
+  background: #fff;
+}
+#private {
+  background: #242a33 url(../../2017/images/pht_bg/sakura.jpg) no-repeat 50% 50%;
+  background-size: cover;
+  color: #fff;
+  padding: 180px 0 100px 0;
+}
+#private h2 {
+  color: #fff;
+  font-size: 35px;
+  line-height: 1;
+}
+#private h2 span {
+  color: #45aed6;
+}
+#private p {
+  color:#cbbeba;}
+
+tr td {
+  font-size: 14px;
+  color: #514F45;
+vertical-align:text-top;
+padding-bottom:50px;
+}
+table a {
+  color: #807673 !important;
+}
+table a:hover,
+table a:focus {
+  text-decoration: none;
+  color: #2c8cb3 !important;
+}
+
+#lapetitsocialdeltango {
+  background: #242a33 url("../../ja/img/bg-banda.jpg") no-repeat 50% 50%;
+  background-size: cover;
+  color: #fff;
+  padding: 180px 0 100px 0;
+}
+#lapetitsocialdeltango h2 {
+  color: #fff;
+  font-size: 35px;
+  line-height: 2;
+}
+#lapetitsocialdeltango h2 span {
+  color: #45aed6;
+}
+#lapetitsocialdeltango p {
+  color:#cbbeba;}
+#lapetitsocialdeltango a:link {
+  color:#ffffff;}
+#lapetitsocialdeltango a:hover, a:focus {
+  color:#6d4863;}

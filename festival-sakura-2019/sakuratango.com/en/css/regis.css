@@ -1,0 +1,35 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,100italic,300italic,400italic,700italic);
+ /*************************
+*******registration******
+**************************/
+#menu {
+  padding: 50px 0;
+  background: #ebe4e4;
+}
+
+#milonga,
+#ws,
+#show {
+  padding: 180px 0 100px 0;
+  background: #fff;
+}
+#regist  {
+   padding: 180px 0 100px 0;
+	background: #fff url("../../2018/img/retro-intro.png") repeat;
+}
+
+tr td {
+  font-size: 14px;
+  color: #514F45;
+vertical-align:text-top;
+padding-bottom:50px;
+}
+table a {
+  color: #807673 !important;
+}
+table a:hover,
+table a:focus {
+  text-decoration: none;
+  color: #2c8cb3 !important;
+}
+

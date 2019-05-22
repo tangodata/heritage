@@ -1,0 +1,16 @@
+'''Milonga''' (or Molonga) [[dance]] is dancing to [[milonga music]].
+
+{{citation needed span|Milonga dance incorporates the same basic elements as [[Tango]] but permits a greater relaxation of legs and body. Movement is normally faster, and pauses are less common. It is usually a kind of rhythmic walking without complicated figures, with a more humorous and rustic style in contrast with the serious and dramatic Tango.|date=May 2018}}
+
+{{citation needed span|There are different styles of Milonga: "Milonga Lisa" (Simple Milonga), in which the dancer steps on every beat of the music; and "Milonga con Traspié", in which the dancer uses Traspiés or contrapasos (changes of weight from one foot to the other and back again in double time or three steps in two beats) to interpret the music. Thus, dynamics may be danced without having to run fast or without the use of much space. Overall, milonga is danced in a faster pace than tango which makes this dance "unforgiving" regarding mistakes or clumsiness.|date=May 2018}}
+
+In a book published in 1883 Ventura Lynch, a noted contemporary student of the dances and [[folklore]] of [[Buenos Aires Province]], noted the influence the [[Afro-Argentine]] dancers had on the compadritos, who apparently frequented the Afro-Argentine dance venues, "the milonga is danced only by the compadritos of the city, who have created it as a mockery of the dances the blacks hold in their own places".<ref name="Collier44">Simon Collier, ''Tango!: The Dance, the Song, the Story'' (New York: Thames and Hudson, 1995), p. 44-45, citing Ventura Lynch, ''La provinciade Buenos Aires hasta la definicion de la cuestion Capital de la Republica'', page 16.</ref>
+
+Ventura Lynch also noted the popularity of the milonga. "The ''milonga'' is so universal in the environs of the city that it is an obligatory piece at all the lower-class dances (''bailecitos de medio pelo''), and it is now heard on guitars, on paper-combs, and from the itinerant musicians with their flutes, harps and violins. It has also been taken up by the organ-grinders, who have arranged it so as to sound like the [[Contradanza|habanera]] dance. It is danced too in the low life clubs around...[main] markets, and also at the dances and wakes of cart-drivers, the soldiery and ''compadres'' and ''compadritos''.<ref name=Collier44/>
+
+Distinctive elements added from [[candombe]] were "quebradas", improvised, jerky, semi-athletic contortions, the more dramatic the better, ironical elements like walking around the partner with exaggerated tiny steps or humorous jumps, and ''cortes'', a suggestive pause, or sudden break in the figures of the dance. Unlike in the "Tango" of that group, however, where these movements were danced apart, they were now danced together.<ref>Simon Collier, ''Tango!: The Dance, the Song, the Story'' (New York: Thames and Hudson, 1995), p. 46–47.</ref> Jose Gobello suggested that the [[mazurka]] was also altered in the districts close to the docks. This Africanized milonga-tango, as well as the [[Contradanza|habanera]] and mazurka, was frowned upon, and found wholly unacceptable by some sections of [[Argentine]] high society.<ref name=Collier44/>
+
+==References==
+{{reflist}}
+
+[[Category:Latin dances]]

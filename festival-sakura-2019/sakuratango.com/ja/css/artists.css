@@ -1,0 +1,105 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,100italic,300italic,400italic,700italic);
+@import url('https://fonts.googleapis.com/css?family=Nova+Mono');
+
+ /*************************
+*******Maestros******
+**************************/
+
+#artists{
+	padding: 180px 0 100px 0;
+	background: #333333 url(../../2017/images/pht_artists/bg.jpg) no-repeat 0 0;
+	background-size: cover;
+}
+.team-info h3 {
+	font-size: 18px;
+}
+.artist-member {
+	margin-bottom:30px;
+	padding: 13px;
+	background: #eeeeee;
+	border: 2px solid #eeeeee;
+	transition: border-color 400ms;
+	-webkit-transition: border-color 400ms;
+}
+.artist-member .team-img {
+	margin: -15px -15px 0 -15px;
+}
+.artist-member .team-info {
+	padding-bottom: 10px;
+	border-bottom: 1px solid #dbdbdb;
+	margin-bottom: 10px;
+}
+#artists .artist-member:hover {
+	border-color: #53012e;
+}
+.artist-member:hover .social-icons > li > a {
+	background: #53012e;
+}
+ /*************************
+*******Musician******
+**************************/
+#mus {
+  padding: 180px 0 100px 0;
+  background: #333333 url(../../2017/images/pht_bg/band.jpg) no-repeat 0 0;
+  background-size: cover;
+}
+ /*************************
+*******DJs******
+**************************/
+#dj {
+  padding: 180px 0 100px 0;
+  background: #333333 url(../../2017/images/pht_bg/dj.jpg) no-repeat 0 0;
+  background-size: cover;
+}
+ /*************************
+*******Guest Dancers******
+**************************/
+#asia {
+  padding: 180px 0 100px 0;
+  background: #333333 url(../../2017/images/pht_bg/sakura.jpg) no-repeat 0 0;
+  background-size: cover;
+}
+#modal_block {
+		display: none;
+		width: 700px;
+		padding: 50px 45px;
+		margin: top auto;
+		background: #330612;
+	color: white;
+		border: 1px solid #313131;
+		box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		-o-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+}
+#modal_block h2 {
+	color: #9CC04F;
+	font-size: 18px;
+	letter-spacing: 0.08em;
+}
+#modal_block p {
+	color: aliceblue;
+	font-size: 16px;
+}
+#modal_block img{
+	margin-bottom: 30px;
+}
+.modal-header h4{
+	color: #CDBECB !important;
+	letter-spacing: 0.08em !important;
+}
+.modal-content {
+	background: #000;
+}
+.modal-body p {
+	font-size: 14px !important;
+	color: #CDBECB !important;
+	line-height: 1.7em !important;
+}
+.modal-footer .btn.btn-primary {
+	background: #7f375e !important;
+	border-color: #7f375e !important;
+	color:#fff !important;
+}
+

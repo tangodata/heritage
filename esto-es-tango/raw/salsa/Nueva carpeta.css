@@ -1,0 +1,10 @@
+h1 {  font-family: Arial, Helvetica, sans-serif; color: #B7D126; background-color: #993300}
+h1 {  font-size: large; text-decoration: none}
+a.h1:hover {  font-family: Arial, Helvetica, sans-serif; color: #993300; background-color: #CCCC33}
+a {  text-decoration: none; color: #FFFF00}
+a:hover {  color: #FFFF99; text-decoration: none}
+p {  font-family: Arial, Helvetica, sans-serif; font-size: 12px}
+.tienda {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #993300; text-decoration: none}
+.textoamarillo {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFF00; text-decoration: none}
+.h1rojo {  font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #993300; font-weight: bold}
+h2 {  font-family: Arial, Helvetica, sans-serif; font-size: 36px}
